@@ -1,0 +1,2 @@
+I got error in practical 1.3 where I have to count strings total word.
+I solved by countig spaces after each word.
